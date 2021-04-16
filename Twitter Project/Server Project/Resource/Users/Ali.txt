@@ -1,0 +1,1 @@
+{"username":"Ali","password":"123","bio":"","followers":["Babak"],"followings":[],"personalTweets":[1],"tweets":[],"SeenTweet":[],"like":[]}

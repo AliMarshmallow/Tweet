@@ -1,0 +1,1 @@
+{"id":3,"author":"a","content":"Why?","comments":{},"likes":0}

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/Desktop/Sharif/Server Project/cJSON.h
+stddef.h
+-
+
+C:/Users/ASUS/Desktop/Sharif/Server Project/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+winsock2.h
+-
+unistd.h
+-
+cJSON.h
+C:/Users/ASUS/Desktop/Sharif/Server Project/cJSON.h
+

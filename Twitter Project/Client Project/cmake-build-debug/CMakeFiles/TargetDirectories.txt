@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/Sharif/mabani/Client Project/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/ASUS/Desktop/Sharif/mabani/Client Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/Sharif/mabani/Client Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
